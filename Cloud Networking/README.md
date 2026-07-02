@@ -24,7 +24,7 @@ This repository outlines the configuration steps to construct a custom Virtual P
 - **Name assignment**: `cloud-vpc`
 - **Network Block Allocation**: Set manual input IPv4 CIDR to `10.0.0.0/16`.
 
-![Create VPC](./images/page_1_img_1.png)
+![Create VPC](images/VPC1.png)
 
 ---
 
